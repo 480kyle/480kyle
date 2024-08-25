@@ -45,7 +45,6 @@ I'm a backend developer with 8 years of experience, currently working on a large
 <img src='https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&amp;logo=datadog&amp;logoColor=white' />
 <!-- JWT  -->
 <img src='https://img.shields.io/badge/JWT-black?style=for-the-badge&amp;logo=JSON%20web%20tokens' />
-</p>
 <!-- Yarn  -->
 <img src='https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&amp;logo=yarn&amp;logoColor=white' />
 <!-- Linux  -->
@@ -54,6 +53,8 @@ I'm a backend developer with 8 years of experience, currently working on a large
 <img src='https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&amp;logo=eslint&amp;logoColor=white' />
 <!-- Jest  -->
 <img src='https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white' />
+
+</p>
 
 ### Know How to Use (Intermediate)
 
