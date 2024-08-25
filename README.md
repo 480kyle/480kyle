@@ -1,11 +1,62 @@
 <p align='center'>
-<h1 align='center'>👋 Hi, I am Kwangmin Kim</h2>
+<h1 align='center'>Hi, I am Kwangmin Kim<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 <p align='center'>Software Engineer  | Backend Developer  | DevOps </h4>
 </p>
 
 I'm a backend developer with 8 years of experience, currently working on a large-scale multi-tenancy web builder platform. I specialize in designing scalable systems with large traffics.
 
-📄 [My Resume](https://thegrid-labs.com/resume) | 🌐 [My Website](https://thegrid-labs.com)
+📄 [My Resume](https://thegrid-labs.com/resume) | 🌐 [My Website](https://thegrid-labs.com) | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="480kyle" height="20px" width="30px" /> [My Writings](https://medium.com/@kyle.kim0305)
+
+## 🚀 Projects
+<table>
+<thead>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Project Link</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://github.com/varunKT001/tomper-wear-ecommerce" target="_blank" rel="noopener noreferrer">tomper-wear-ecommerce</a></td>
+    <td>TomperWear is an E-commerce platform for small bussiness owners who want to expand their bussiness by providing an online purchase solution to their customers.</td>
+    <td><a href="https://tomper-wear.netlify.app/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/tomper-chat" target="_blank" rel="noopener noreferrer">tomper-chat</a></td>
+    <td>TomperChat is a clone of WhatsApp. Its build using MERN stack and uses socket.io for realtime messaging, online statuses, typing indicators, notifications etc.</td>
+    <td><a href="https://tomper-chat.herokuapp.com/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/tomper-readmify" target="_blank" rel="noopener noreferrer">tomper-readmify</a></td>
+    <td>Generate your Github Profile Readme using the best templates (UNDER DEVELOPMENT).</td>
+    <td><a href="https://tomper-readmify.herokuapp.com/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/tomper-jobs" target="_blank" rel="noopener noreferrer">tomper-jobs</a></td>
+    <td>TopperJobs is a job application tracking application that keeps track of the jobs you&#39;ve applied for.</td>
+    <td><a href="https://tomper-jobs.netlify.app/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/tomperjs" target="_blank" rel="noopener noreferrer">tomper.js</a></td>
+    <td>TomperJS is a web-framework based on MVC(Model-View-Controller) architecture pattern.</td>
+    <td><a href="https://varunkt001.github.io/tomperjs/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/express-ts-decorators" target="_blank" rel="noopener noreferrer">express-ts-decorators</a></td>
+    <td>Simple Typescript decorators for Express.</td>
+    <td><a href="https://www.npmjs.com/package/@varuntiwari/express-ts-decorators" target="_blank" rel="noopener noreferrer">npm</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/tloc" target="_blank" rel="noopener noreferrer">tloc</a></td>
+    <td>Find out how many lines of code you have written for your project.</td>
+    <td><a href="https://www.npmjs.com/package/tloc" target="_blank" rel="noopener noreferrer">npm</a></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><a href="https://github.com/480kyle?tab=repositories">View all projects</a></td>
+  </tr>
+</tbody>
+</table>
 
 ## 🛠️ Technologies & Tools
 
@@ -81,13 +132,5 @@ I'm a backend developer with 8 years of experience, currently working on a large
 
 </p>
 
-
 ## 🏋️‍♂️ Endeavors
 ![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/c10cae8a-5609-47b4-8828-2134744b5e45)
-
----
-
-<h3 align="center">Writings:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/varun-tiwari-454591178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="480kyle" height="30px" width="40px" /></a>
-</p>
