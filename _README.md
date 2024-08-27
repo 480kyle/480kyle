@@ -1,4 +1,4 @@
-<p align='center'>
+<!-- <p align='center'>
 <h1 align='center'>Hi, I am Kwangmin Kim<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 <p align='center'>Software Engineer  | Backend Developer  | DevOps </h4>
 </p>
@@ -16,7 +16,7 @@ I'm a backend developer with 8 years of experience, currently working on a large
 
 ## 🛠️ Technologies & Tools
 
-### Everyday Use (Advanced)
+### Everyday Use (Advanced) -->
 <p>
 <!-- GitHub Actions  -->
 <img src='https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white' />
