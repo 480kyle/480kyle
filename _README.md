@@ -1,66 +1,22 @@
-<!-- <p align='center'>
+<p align='center'>
 <h1 align='center'>Hi, I am Kwangmin Kim<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 <p align='center'>Software Engineer  | Backend Developer  | DevOps </h4>
 </p>
 
-I'm a backend developer with 8 years of experience, currently working on a large-scale multi-tenancy web builder platform. I specialize in designing scalable systems with large traffics.
+I'm a backend developer with 8 years of experience, currently working on a large-scale multi-tenancy web builder platform. I'm specialized in designing scalable systems with large traffics.
 
 📄 [My Resume](https://thegrid-labs.com/resume) | 🌐 [My Website](https://thegrid-labs.com) | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="480kyle" height="20px" width="30px" /> [My Writings](https://medium.com/@kyle.kim0305)
 
 ## 🚀 Projects
-<table>
-<thead>
-  <tr>
-    <th style="border: none; background: none;">Project Name</th>
-    <th style="border: none; background: none;">Description</th>
-    <th style="border: none; background: none;">Project Link</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="border: none; background: none;"><a href="https://github.com/varunKT001/tomper-wear-ecommerce" target="_blank" rel="noopener noreferrer">tomper-wear-ecommerce</a></td>
-    <td style="border: none; background: none;">TomperWear is an E-commerce platform for small bussiness owners who want to expand their bussiness by providing an online purchase solution to their customers.</td>
-    <td style="border: none; background: none;"><a href="https://tomper-wear.netlify.app/" target="_blank" rel="noopener noreferrer">visit</a></td>
-  </tr>
-  <tr>
-    <td style="border: none; background: none;"><a href="https://github.com/varunKT001/tomper-chat" target="_blank" rel="noopener noreferrer">tomper-chat</a></td>
-    <td style="border: none; background: none;">TomperChat is a clone of WhatsApp. Its build using MERN stack and uses socket.io for realtime messaging, online statuses, typing indicators, notifications etc.</td>
-    <td style="border: none; background: none;"><a href="https://tomper-chat.herokuapp.com/" target="_blank" rel="noopener noreferrer">visit</a></td>
-  </tr>
-  <tr>
-    <td style="border: none; background: none;"><a href="https://github.com/varunKT001/tomper-readmify" target="_blank" rel="noopener noreferrer">tomper-readmify</a></td>
-    <td style="border: none; background: none;">Generate your Github Profile Readme using the best templates (UNDER DEVELOPMENT).</td>
-    <td style="border: none; background: none;"><a href="https://tomper-readmify.herokuapp.com/" target="_blank" rel="noopener noreferrer">visit</a></td>
-  </tr>
-  <tr>
-    <td style="border: none; background: none;"><a href="https://github.com/varunKT001/tomper-jobs" target="_blank" rel="noopener noreferrer">tomper-jobs</a></td>
-    <td style="border: none; background: none;">TopperJobs is a job application tracking application that keeps track of the jobs you&#39;ve applied for.</td>
-    <td style="border: none; background: none;"><a href="https://tomper-jobs.netlify.app/" target="_blank" rel="noopener noreferrer">visit</a></td>
-  </tr>
-  <tr>
-    <td style="border: none; background: none;"><a href="https://github.com/varunKT001/tomperjs" target="_blank" rel="noopener noreferrer">tomper.js</a></td>
-    <td style="border: none; background: none;">TomperJS is a web-framework based on MVC(Model-View-Controller) architecture pattern.</td>
-    <td style="border: none; background: none;"><a href="https://varunkt001.github.io/tomperjs/" target="_blank" rel="noopener noreferrer">visit</a></td>
-  </tr>
-  <tr>
-    <td style="border: none; background: none;"><a href="https://github.com/varunKT001/express-ts-decorators" target="_blank" rel="noopener noreferrer">express-ts-decorators</a></td>
-    <td style="border: none; background: none;">Simple Typescript decorators for Express.</td>
-    <td style="border: none; background: none;"><a href="https://www.npmjs.com/package/@varuntiwari/express-ts-decorators" target="_blank" rel="noopener noreferrer">npm</a></td>
-  </tr>
-  <tr>
-    <td style="border: none; background: none;"><a href="https://github.com/varunKT001/tloc" target="_blank" rel="noopener noreferrer">tloc</a></td>
-    <td style="border: none; background: none;">Find out how many lines of code you have written for your project.</td>
-    <td style="border: none; background: none;"><a href="https://www.npmjs.com/package/tloc" target="_blank" rel="noopener noreferrer">npm</a></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center"><a href="https://github.com/480kyle?tab=repositories">View all projects</a></td>
-  </tr>
-</tbody>
-</table>
+- **ShopOS**: Developed a customizable headless commerce backend operating system using Nest.js.
+- **Multilingual System Improvement**: Streamlined translation processes and eliminated over 30,000 lines of PHP code.
+- **Order Payments System**: Built a new API in a high-traffic MSA environment using TypeScript, Nest.js, and AWS services.
+- **Legacy System Migration**: Led migration project implementing CQRS pattern with BullMQ.
+- **E-commerce Platforms**: Developed platforms for various industries including fashion, art, furniture, and F&B.
 
 ## 🛠️ Technologies & Tools
 
-### Everyday Use (Advanced) -->
+### Everyday Use (Advanced)
 <p>
 <!-- GitHub Actions  -->
 <img src='https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white' />
